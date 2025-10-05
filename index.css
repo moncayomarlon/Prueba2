@@ -32,7 +32,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: rgb(253, 0, 0);
     text-decoration: none; /* Quita el subrayado de los enlaces */
     font-weight: bold;
 }
